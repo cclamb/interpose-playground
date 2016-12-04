@@ -1,0 +1,13 @@
+# Ignore object files
+*.o
+
+# Ignore iPhone SDKs
+SDKs/*.sdk/
+
+# Ignore generated symbol files
+*.dSYM
+
+# Ignore executables and VIM swap files
+*.swp
+*.dylib
+main*
